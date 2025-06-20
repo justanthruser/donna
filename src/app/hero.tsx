@@ -14,15 +14,14 @@ function Hero() {
             color="blue-gray"
             className="mb-4 lg:text-5xl !leading-tight text-3xl"
           >
-            Welcome to my Web <br /> Development Portofolio!
+            Welcome to my Arts & Design Portfolio!
           </Typography>
           <Typography
             variant="lead"
             className="mb-4 !text-gray-500 md:pr-16 xl:pr-28"
           >
-            I&apos;m Lily Smith, a passionate web developer based in USA. Here,
-            you&apos;ll get a glimpse of my journey in the world of web
-            development, where creativity meets functionality.
+            I&apos;m Donna, a passionate Social Worker and artist based in Sierra Leone. Here,
+            you&apos;ll get a glimpse of my journey in the world of Arts, Design and Social Work where creativity meets functionality.
           </Typography>
           <div className="grid">
             <Typography

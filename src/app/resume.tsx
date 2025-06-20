@@ -12,15 +12,15 @@ import { ResumeItem } from "@/components";
 const RESUME_ITEMS = [
   {
     icon: ChartBarIcon,
-    children: "Bachelor of Science in Computer Science",
+    children: "Bachelor of Science in Social Work",
   },
   {
     icon: PuzzlePieceIcon,
-    children: "Certified Web Developer ",
+    children: "Certified Visual Designer",
   },
   {
     icon: CursorArrowRaysIcon,
-    children: "Frontend Framework Proficiency Certification",
+    children: "Certified Social Worker",
   },
 ];
 
@@ -33,9 +33,9 @@ export function Resume() {
             My Resume
           </Typography>
           <Typography className="mb-4 mt-3 w-9/12 font-normal !text-gray-500">
-            Highly skilled and creative Web Developer with 5+ years of
+            Highly skilled and creative Social Worker with 5+ years of
             experience in crafting visually stunning and functionally robust
-            websites and web applications.
+            artworks and designs.
           </Typography>
           <Button
             variant="text"
