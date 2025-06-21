@@ -93,7 +93,7 @@ export function ContactForm() {
                     variant="static"
                     label="Last Name"
                     name="last-name"
-                    placeholder="eg. Otoo"
+                    placeholder="eg. Eniwaju"
                     containerProps={{
                       className: "!min-w-full",
                     }}

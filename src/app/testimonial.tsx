@@ -50,7 +50,7 @@ export function Testimonial() {
               <div className="flex items-center gap-4">
                 <Avatar
                   variant="rounded"
-                  src={`${getImagePrefix()}image/avatar1.jpg`}
+                  src={`${getImagePrefix()}image/avatar1.jpeg`}
                   alt="spotify"
                   size="sm"
                   className={`cursor-pointer ${
